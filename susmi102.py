@@ -1,2 +1,2 @@
-n=int(input())
-print len(str(n))
+x=int(input())
+print len(str(x))
